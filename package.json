@@ -1,0 +1,17 @@
+{
+  "name": "pluggedjs",
+  "version": "1.0.0",
+  "description": "PluggedJs es un framework JavaScript full-stack diseñado para simplificar el desarrollo de aplicaciones web y móviles, proporcionando una estructura modular y flexible que separa el backend y el frontend. Con una arquitectura centrada en la API, PluggedJs permite a los desarrolladores crear proyectos multiplataforma y escalables.",
+  "type": "module",
+  "bin": {
+    "renxjs": "bin/pluggedjs.js"
+  },
+  "keywords": [
+    "frontend, backend, full-stack, Node, Express, Sequalize, MySql2, React, Vite, Tailwind"
+  ],
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "author": "Melvin Santana <mascueto@gmail.com>",
+  "license": "MIT"
+}

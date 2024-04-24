@@ -1,0 +1,4 @@
+todoList.md
+/node_modules
+.npmignore
+/.vscode
